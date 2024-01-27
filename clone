@@ -1,0 +1,2 @@
+git remote add azure <https://iplistener.scm.azurewebsites.net:443/iplistener.git>
+git push azure master
